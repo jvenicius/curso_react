@@ -1,0 +1,9 @@
+Criar React App
+$ npx create-react-app <myfolder>
+
+Utilize "." para criar na pasta local.
+
+Iniciar App
+$ npm start
+
+
